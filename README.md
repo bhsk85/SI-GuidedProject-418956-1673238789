@@ -1,10 +1,20 @@
-# FlightAware 
+# FlightAware - Spring Boot
 
-### FlightAware is a flight tracking service that provides real-time flight information to the public.
+#### FlightAware is a flight tracking service that provides real-time flight information to the public.
 
-## Here is the link to the live demo: [FlightAware](https://flightaware-at4m.onrender.com/)
+#### Here is the link to the live demo: [FlightAware](https://flightaware-at4m.onrender.com/)
 
-## Features
+### Demo:
+https://user-images.githubusercontent.com/79750913/211483321-a5551a97-24b3-40cc-a08e-32adc7d8d1f5.mp4
+
+
+### Course Completion Certificate
+![VMWare - SpringBoot Course Completion Certificate](https://user-images.githubusercontent.com/79750913/211483722-33e5d8ee-111f-4cc4-81b7-642a3860c8e2.jpeg)
+
+
+
+
+### Features
 
 * View all flights
 * View all flights by route
@@ -12,7 +22,7 @@
 * View all currencies
 * View all countries
 
-## Tech Stack
+### Tech Stack
 
 * [Spring Boot](https://spring.io/projects/spring-boot)
 * [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
@@ -23,17 +33,17 @@
 * [MySQL](https://www.mysql.com/)
 * [Hibernate](https://hibernate.org/)
 
-## Prerequisites
+### Prerequisites
 [Java 17 JDK](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
 [Maven](https://maven.apache.org/download.cgi)
 
-## Installation
+### Installation
 
 1. Clone the repository
 2. Open the project in your favorite IDE
 3. Run the project
 
-## Usage
+### Usage
 
 1. Open your browser and navigate to http://localhost:8081
 
