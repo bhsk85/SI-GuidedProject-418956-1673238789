@@ -11,5 +11,5 @@ RUN mvn -f /home/app/pom.xml clean package
 #
 FROM openjdk:17.0.1-jdk-slim
 COPY --from=build /home/app/target/flightaware-0.0.1-SNAPSHOT.jar /usr/local/lib/falcon.jar
-EXPOSE 8080
+EXPOSE 8081
 ENTRYPOINT ["java","-jar","/usr/local/lib/falcon.jar"]
