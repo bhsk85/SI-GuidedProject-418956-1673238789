@@ -8,8 +8,6 @@
 https://user-images.githubusercontent.com/79750913/211483321-a5551a97-24b3-40cc-a08e-32adc7d8d1f5.mp4
 
 
-### Course Completion Certificate
-![VMWare - SpringBoot Course Completion Certificate](https://user-images.githubusercontent.com/79750913/211483722-33e5d8ee-111f-4cc4-81b7-642a3860c8e2.jpeg)
 
 
 
